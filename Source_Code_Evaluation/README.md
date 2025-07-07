@@ -21,11 +21,11 @@ The source code of the misbeahvior detection systems (MBDs) can be found in the 
 
 #### Source Code of the Hyperparameter-Optimization Approach
 
-In this work we used hyperparameter optimization to optimize the parameters necessary for the MBDs. For this puropse, we used the Optuna framework. The corresponding source code is include in the **pipeline** folder in the **train.py** file of the single MBD variants. For exmaple, the source code for the optimization of the SL MBD can be found [here](https://cloudstore.uni-ulm.de/s/9JKabACB5932MTf?dir=/Source_Code_Evaluation/pipeline/SL_MBD_optimized&openfile=true).
+In this work we used hyperparameter optimization to optimize the parameters necessary for the MBDs. For this puropse, we used the Optuna framework. The corresponding source code is include in the **pipeline** folder in the **train.py** file of the single MBD variants. For exmaple, the source code for the optimization of the SL MBD can be found [here](./SL_MBD_optimized).
 
 ### Pipelines
 
-For each MBD variant we created a shell script called **evaluation.sh**. This shell script exectues the training and the test phase of the corresponding MBD variant, conducting 100,000 iterations. To reproduce our evalaution results, you just have to exectue the corresponding shell script. For example, for the SL MBD, the corresponding shell script can be found [here](https://cloudstore.uni-ulm.de/s/9JKabACB5932MTf?dir=/Source_Code_Evaluation/pipeline/SL_MBD_optimized&openfile=true).
+For each MBD variant we created a shell script called **evaluation.sh**. This shell script exectues the training and the test phase of the corresponding MBD variant, conducting 100,000 iterations. To reproduce our evalaution results, you just have to exectue the corresponding shell script. For example, for the SL MBD, the corresponding shell script can be found [here](.SL_MBD_optimized).
 
 ---
 
