@@ -14,7 +14,7 @@ The repository provides all artifacts related to the paper **Hyperparameter Opti
 
 #### VeReMi Extension Dataset
 
-The VeReMi extension dataset is a benchmark dataset to evaluate misbehavior detection systems. The dataset was create by Kamel et al.[1] and was extended within our work by an additional attribute. For each position included in the dataset, the distance to the closes road was determined and added to the dataset. This enables the *position plausibility detector* to provide an output. The corresponding dataset is located [here](https://cloudstore.uni-ulm.de/s/9JKabACB5932MTf?dir=/VeReMi_Extension_Dataset).
+The VeReMi extension dataset is a benchmark dataset to evaluate misbehavior detection systems. The dataset was create by Kamel et al.[1] and was extended within our work by an additional attribute. For each position included in the dataset, the distance to the closes road was determined and added to the dataset. This enables the *position plausibility detector* to provide an output. The corresponding dataset is located [here](./VeReMi_Extension_Dataset).
 
 #### Evaluation Results
 
