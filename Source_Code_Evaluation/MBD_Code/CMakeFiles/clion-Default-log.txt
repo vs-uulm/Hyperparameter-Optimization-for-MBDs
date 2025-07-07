@@ -1,0 +1,4 @@
+Cannot generate into /Users/arturhermann/Documents/VS/papers/Comparision_detection_patterns/gitlab/mbd_code_new/mbd_code_2/code_weighted_2_position_plausibility
+It is already used for project /home/ubuntu/mbd_git_repo/mbd_code/code_weighted_2
+
+Please either delete it manually or select another generation directory

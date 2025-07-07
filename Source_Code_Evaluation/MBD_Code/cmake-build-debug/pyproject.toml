@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "optimizer-for-legacy-detectors"
+version = "0.1.0"
+description = ""
+authors = ["Artur Hermann <Artur.Hermann@uni-ulm.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+optuna = "^3.6.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

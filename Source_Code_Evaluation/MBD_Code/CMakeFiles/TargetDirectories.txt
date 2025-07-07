@@ -1,0 +1,3 @@
+/home/ubuntu/mbd_git_repo/mbd_code/code_weighted_2/CMakeFiles/legacy_detectors.dir
+/home/ubuntu/mbd_git_repo/mbd_code/code_weighted_2/CMakeFiles/edit_cache.dir
+/home/ubuntu/mbd_git_repo/mbd_code/code_weighted_2/CMakeFiles/rebuild_cache.dir
