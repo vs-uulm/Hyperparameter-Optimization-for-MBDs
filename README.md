@@ -10,6 +10,22 @@ The repository provides all artifacts related to the paper **Hyperparameter Opti
 
 ---
 
+### Paper Reference
+All artifacts related to our paper **Hyperparameter Optimization-Based Trust Quantification for Misbehavior Detection Systems**. If you are using our work, please use the following citation:
+
+> Hermann, A., Trkulja, N.,  Eissermann, D., Erb, B and Kargl, F. 2025. Hyperparameter Optimization-Based Trust Quantification for Misbehavior Detection Systems. *Proceedings of the 2025 IEEE Intelligent Transportation Systems Conference (Gold Coast, Australia, 2025)*.
+```
+@inproceedings{Hermann2025mbd,
+	author = {Hermann, Artur and Trkulja, Nata{\v s}a and Eisermann, Dennis and Erb, Benjamin and Kargl, Frank},
+	booktitle = {2025 {IEEE} {International} {Conference} on {Intelligent} {Transportation} {Systems}},
+	date = {2025-11},
+	title = {Hyperparameter {Optimization}-{Based} {Trust} {Quantification} for {Misbehavior} {Detection} {Systems}},
+}
+```
+
+
+---
+
 ### Summary of Artifacts
 
 #### VeReMi Extension Dataset
